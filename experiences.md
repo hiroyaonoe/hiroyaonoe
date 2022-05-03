@@ -9,9 +9,10 @@ SREとして、Kubernetesクラスターへの新しいツールの導入や、�
 ### サイボウズ株式会社(2021年8月-2021年9月)
 2週間 Kubernetes基盤開発コース  
 ストレージチームでRook/Cephに関連したストレージ基盤の改善やOSS貢献に取り組んだ(Go, shell script)
+https://blog.cybozu.io/entry/2021/09/10/170132
 ### Wantedly, Inc.(2021年8月)
 3週間  
-Visitの推薦基盤の改善に取り組んだ(Go)
+Visitの推薦基盤における社内ツール改善に取り組んだ(Go)
 ### Wantedly, Inc.(2021年3月)
 2週間  
 Perkの検索における課題を調査。解決策としてElasticsearchを導入し、検索基盤を整備した(Ruby on Rails)
