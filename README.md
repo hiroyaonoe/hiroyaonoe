@@ -8,7 +8,7 @@ Go, Python, Java, Ruby, OCaml
 ### Links
 [経歴](experiences.md)  
 [Twitter](https://twitter.com/hiroyanoe)  
-[Facebook](https://www.facebook.com/100062243530677)  
+[Facebook](https://facebook.com/onoehiroya.0330)  
 [Wantedly](https://www.wantedly.com/id/onoe_hiroya)  
 [AtCoder](https://atcoder.jp/users/noe)  
 [LinkedIn](https://www.linkedin.com/in/onoehiroya/)
