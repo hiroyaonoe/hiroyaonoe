@@ -13,6 +13,9 @@ Go, Python, Java, Ruby, OCaml
 [AtCoder](https://atcoder.jp/users/noe)  
 [LinkedIn](https://www.linkedin.com/in/onoehiroya/)
 
+### Recent Posts
+[KVMでホストとブリッジ接続したVMを作成する](https://www.onoe.dev/blog/kvm-bridge/)
+
 <!--
 **hiroyaonoe/hiroyaonoe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
