@@ -12,6 +12,7 @@ Go, Python, Java, Ruby, OCaml
 [Wantedly](https://www.wantedly.com/id/onoe_hiroya)  
 [AtCoder](https://atcoder.jp/users/noe)  
 [LinkedIn](https://www.linkedin.com/in/onoehiroya/)
+[Zenn](https://zenn.dev/hiroyaonoe)
 
 ### Recent Posts
 [KVMでホストとブリッジ接続したVMを作成する](https://www.onoe.dev/blog/kvm-bridge/)
