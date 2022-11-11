@@ -11,11 +11,11 @@ Go, Python, Java, Ruby, OCaml
 [Facebook](https://facebook.com/onoehiroya.0330)  
 [Wantedly](https://www.wantedly.com/id/onoe_hiroya)  
 [AtCoder](https://atcoder.jp/users/noe)  
-[LinkedIn](https://www.linkedin.com/in/onoehiroya/)
+[LinkedIn](https://www.linkedin.com/in/onoehiroya/)  
 [Zenn](https://zenn.dev/hiroyaonoe)
 
 ### Recent Posts
-[KVMでホストとブリッジ接続したVMを作成する](https://www.onoe.dev/blog/kvm-bridge/)
+[KVMでホストとブリッジ接続したVMを作成する](https://www.onoe.dev/blog/kvm-bridge/)  
 
 <!--
 **hiroyaonoe/hiroyaonoe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
