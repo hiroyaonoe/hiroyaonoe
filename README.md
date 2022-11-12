@@ -16,8 +16,8 @@ Go, Python, Java, Ruby, OCaml
 
 ### Recent Posts
 #### [Blog](https://www.onoe.dev/blog)
-<!-- BLOGPOSTS:START -->
-<!-- BLOGPOSTS:END -->
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 <!--
 **hiroyaonoe/hiroyaonoe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
