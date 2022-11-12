@@ -6,7 +6,7 @@ Go, Ruby, Python, Java, OCaml
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hiroyaonoe&card_width=495) -->
 
 ### Links
-[Website](https://onoe.dev)  
+[Portfolio](https://onoe.dev)  
 [Twitter](https://twitter.com/hiroyanoe)  
 [Facebook](https://facebook.com/onoehiroya.0330)  
 [Wantedly](https://www.wantedly.com/id/onoe_hiroya)  
@@ -14,8 +14,7 @@ Go, Ruby, Python, Java, OCaml
 [LinkedIn](https://www.linkedin.com/in/onoehiroya/)  
 [Zenn](https://zenn.dev/hiroyaonoe)
 
-### Recent Posts
-#### [Blog](https://www.onoe.dev/blog)
+### Recent [Blog](https://www.onoe.dev/blog) Posts
 <!-- BLOG-POST-LIST:START -->
 - [KVMでホストとブリッジ接続したVMを作成する](https://www.onoe.dev/blog/kvm-bridge/)
 <!-- BLOG-POST-LIST:END -->
