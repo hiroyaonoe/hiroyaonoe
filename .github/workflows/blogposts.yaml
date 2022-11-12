@@ -1,6 +1,7 @@
 # https://github.com/marketplace/actions/readme-the-rss
 name: Blog post workflow
 on:
+  workflow_dispatch:
   schedule:
     # Runs every day at 3pm UTC
     - cron: '0 15 * * *'
