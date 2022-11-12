@@ -17,6 +17,7 @@ Go, Python, Java, Ruby, OCaml
 ### Recent Posts
 #### [Blog](https://www.onoe.dev/blog)
 <!-- BLOG-POST-LIST:START -->
+- [KVMでホストとブリッジ接続したVMを作成する](https://www.onoe.dev/blog/kvm-bridge/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
