@@ -15,7 +15,7 @@ Go, Python, Java, Ruby, OCaml
 [Zenn](https://zenn.dev/hiroyaonoe)
 
 ### Recent Posts
-#### [Blog](https://www.onow.dev/blog)
+#### [Blog](https://www.onoe.dev/blog)
 <!-- BLOGPOSTS:START -->
 <!-- BLOGPOSTS:END -->
 
