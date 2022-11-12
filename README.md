@@ -15,7 +15,9 @@ Go, Python, Java, Ruby, OCaml
 [Zenn](https://zenn.dev/hiroyaonoe)
 
 ### Recent Posts
-[KVMでホストとブリッジ接続したVMを作成する](https://www.onoe.dev/blog/kvm-bridge/)  
+#### [Blog](https://www.onow.dev/blog)
+<!-- BLOGPOSTS:START -->
+<!-- BLOGPOSTS:END -->
 
 <!--
 **hiroyaonoe/hiroyaonoe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

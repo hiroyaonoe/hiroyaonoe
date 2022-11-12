@@ -1,0 +1,29 @@
+# https://github.com/marketplace/actions/readme-the-rss
+name: Blog post workflow
+on:
+  schedule:
+    # Runs every day at 3pm UTC
+    - cron: '0 15 * * *'
+
+jobs:
+  pull_blog_rss:
+    name: Update with latest blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Get RSS Feed
+        uses: kohrongying/readme-the-rss@master
+        with:
+          feed_url: https://www.onoe.dev/index.xml
+          count: 5 # default 5
+          readme_path: README.md
+      - name: Commit file changes
+        run: |
+            git config user.name "$(git log -n 1 --pretty=format:%an)"
+            git config user.email "$(git log -n 1 --pretty=format:%ae)"
+            git add .
+            git diff --quiet --cached || git commit -m "Update Recent Blog Posts at README"    
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
