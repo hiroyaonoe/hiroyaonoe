@@ -12,7 +12,8 @@ Go, Ruby, Python, Java, OCaml
 [Wantedly](https://www.wantedly.com/id/onoe_hiroya)  
 [AtCoder](https://atcoder.jp/users/noe)  
 [LinkedIn](https://www.linkedin.com/in/onoehiroya/)  
-[Zenn](https://zenn.dev/hiroyaonoe)
+[Zenn](https://zenn.dev/hiroyaonoe)  
+[Mastodon](https://mstdn.jp/@onoe)  
 
 ### Recent [Blog](https://www.onoe.dev/blog) Posts
 <!-- BLOG-POST-LIST:START -->
