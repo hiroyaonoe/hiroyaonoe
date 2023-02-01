@@ -17,6 +17,7 @@ Go, Ruby, Python, Java, OCaml
 
 ### Recent [Blog](https://www.onoe.dev/blog) Posts
 <!-- BLOG-POST-LIST:START -->
+- [【Go】net.Connを掘り起こす http, mysql編](https://www.onoe.dev/blog/go-net-conn/)
 - [KVMでホストとブリッジ接続したVMを作成する](https://www.onoe.dev/blog/kvm-bridge/)
 <!-- BLOG-POST-LIST:END -->
 
