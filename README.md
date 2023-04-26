@@ -7,7 +7,7 @@ Go, Ruby, Python, Java, OCaml
 
 ### Recent [Blog](https://www.onoe.dev/blog) Posts
 <!-- BLOG-POST-LIST:START -->
-- [【論文紹介】Dapper, a large-scale distributed systems tracing infrastructure](https://www.onoe.dev/blog/paper-dapper/)
+- [【論文紹介】Dapper, a Large-Scale Distributed Systems Tracing Infrastructure](https://www.onoe.dev/blog/paper-dapper/)
 - [『Kubernetes完全ガイド 第2版』を読んだ](https://www.onoe.dev/blog/review-k8s-perfect-guide/)
 - [【Go】net.Connを掘り起こす http, mysql編](https://www.onoe.dev/blog/go-net-conn/)
 - [KVMでホストとブリッジ接続したVMを作成する](https://www.onoe.dev/blog/kvm-bridge/)
