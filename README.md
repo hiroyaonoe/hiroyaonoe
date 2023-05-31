@@ -7,11 +7,11 @@ Go, Ruby, Python
 
 ### Recent [Blog](https://www.onoe.dev/blog) Posts
 <!-- BLOG-POST-LIST:START -->
+- [5月 読んだ論文紹介&amp;感想](https://www.onoe.dev/blog/paper-reading-3/)
 - [5/1~5/3 読んだ論文紹介&amp;感想](https://www.onoe.dev/blog/paper-reading-2/)
 - [4/25~4/29 読んだ論文紹介&amp;感想](https://www.onoe.dev/blog/paper-reading-1/)
 - [『Kubernetes完全ガイド 第2版』を読んだ](https://www.onoe.dev/blog/review-k8s-perfect-guide/)
 - [【Go】net.Connを掘り起こす http, mysql編](https://www.onoe.dev/blog/go-net-conn/)
-- [KVMでホストとブリッジ接続したVMを作成する](https://www.onoe.dev/blog/kvm-bridge/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Links
