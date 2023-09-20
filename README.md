@@ -7,11 +7,11 @@ Go, Ruby, Python
 
 ### Recent [Blog](https://www.onoe.dev/blog) Posts
 <!-- BLOG-POST-LIST:START -->
+- [【インターン参加記】GitHub Actions Self-Hosted Runnerによる負荷試験環境構築の自動化](https://www.onoe.dev/blog/recruit-intern/)
 - [コンテナオーバーレイネットワーク関連の論文紹介&amp;感想](https://www.onoe.dev/blog/paper-reading-3/)
 - [分散トレーシング関連の論文紹介&amp;感想](https://www.onoe.dev/blog/paper-reading-2/)
 - [分散トレーシング関連・Borgの論文紹介&amp;感想](https://www.onoe.dev/blog/paper-reading-1/)
 - [『Kubernetes完全ガイド 第2版』を読んだ](https://www.onoe.dev/blog/review-k8s-perfect-guide/)
-- [【Go】net.Connを掘り起こす http, mysql編](https://www.onoe.dev/blog/go-net-conn/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Links
