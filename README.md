@@ -7,11 +7,11 @@ Go, Ruby, Python
 
 ### Recent [Blog](https://www.onoe.dev/blog) Posts
 <!-- BLOG-POST-LIST:START -->
+- [ISUCON13で学生3位 総合13位だった&lpar;111625点&rpar;](https://www.onoe.dev/blog/isucon13/)
 - [『スタッフエンジニア マネジメントを超えるリーダーシップ』を読んだ](https://www.onoe.dev/blog/review-staff-engineer/)
 - [【インターン参加記】GitHub Actions Self-Hosted Runnerによる負荷試験環境構築の自動化](https://www.onoe.dev/blog/recruit-intern/)
 - [コンテナオーバーレイネットワーク関連の論文紹介&amp;感想](https://www.onoe.dev/blog/paper-reading-3/)
 - [分散トレーシング関連の論文紹介&amp;感想](https://www.onoe.dev/blog/paper-reading-2/)
-- [分散トレーシング関連・Borgの論文紹介&amp;感想](https://www.onoe.dev/blog/paper-reading-1/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Links
