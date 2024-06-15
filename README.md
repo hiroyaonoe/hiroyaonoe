@@ -7,11 +7,11 @@ Go, Ruby, Python
 
 ### Recent [Blog](https://www.onoe.dev/blog) Posts
 <!-- BLOG-POST-LIST:START -->
+- [KubeVirtを使って自宅VM基盤を構築する](https://www.onoe.dev/blog/kubevirt/)
 - [sgkeyを組み立ててTinyGoで遊ぶ](https://www.onoe.dev/blog/sgkey/)
 - [eBPFを使ったOpenTelemetryのGo自動計装ライブラリを調べる](https://www.onoe.dev/blog/otel-go-inst/)
 - [ISUCON13で学生3位 総合13位だった&lpar;111625点&rpar;](https://www.onoe.dev/blog/isucon13/)
 - [『スタッフエンジニア マネジメントを超えるリーダーシップ』を読んだ](https://www.onoe.dev/blog/review-staff-engineer/)
-- [【インターン参加記】GitHub Actions Self-Hosted Runnerによる負荷試験環境構築の自動化](https://www.onoe.dev/blog/recruit-intern/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Links
