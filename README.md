@@ -1,9 +1,4 @@
 ### Hiroya Onoe
-Go, Ruby, Python
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hiroyaonoe&count_private=true&show_icons=true&line_height=28)](https://github.com/anuraghazra/github-readme-stats)
-
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hiroyaonoe&card_width=495) -->
 
 ### Recent [Blog](https://www.onoe.dev/blog) Posts
 <!-- BLOG-POST-LIST:START -->
@@ -16,5 +11,5 @@ Go, Ruby, Python
 
 ### Links
 [Portfolio](https://onoe.dev)  
-[Twitter](https://twitter.com/hiroyanoe)  
+[X](https://x.com/hiroyanoe)  
 [Other Accounts](https://onoe.dev/contact)
